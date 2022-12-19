@@ -1,0 +1,6 @@
+name: EnchantsX
+version: '${project.version}'
+main: it.giopav.enchantsx.EnchantsX
+api-version: 1.19
+authors: [ Giopav ]
+description: Extra enchantments.
